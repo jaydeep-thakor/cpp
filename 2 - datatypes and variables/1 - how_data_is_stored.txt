@@ -4,7 +4,7 @@ integer
 byte = 4, bit = 32
 int a = 8;
 how this 8 is stored in 32 bits
-first we convert it to binear which is 8 = 1000
+first we convert 8 to binear which is = 1000
 and start store it from last 
 0000 0000 0000 1000
 remainig will be 0
